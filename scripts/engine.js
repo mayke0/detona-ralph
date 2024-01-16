@@ -76,7 +76,6 @@ function addListenerHitBox() {
         state.values.hitPosition = null;
         playSound("pancada");
         playSound("ohhater");
-        
       }
     });
   });
